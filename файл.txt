@@ -1,0 +1,31 @@
+instead:вместо
+environment:окружающая среда
+also:также
+sign in:войти
+sign up:зарегистрироваться
+recent:недавний
+unresponsive:не отвечает
+own risk:собственный риск
+provides:обеспечивает
+advanced:продвинутый
+currently:в данный момент
+available:доступный
+announcements:объявления
+via:через
+verify:проверить
+suited:подходящий
+features:функции
+pull:тянуть
+apply:применять
+notifications:уведомления
+assignments:назначения
+owner:владелец
+branch:ветка
+action:действие
+label:метка
+including:включая
+issues:вопросы
+introduction:введение
+merging:слияние
+existing:существующий
+contribute:способствовать
